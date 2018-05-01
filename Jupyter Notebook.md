@@ -1,6 +1,6 @@
 
 # Jupyter Notebook 
-- formerly iPython notebook
+- formerly iPython notebook (extension files ipynb)
 - Python 3 version of libraries
 - notebook contains code and text 
 - learning
