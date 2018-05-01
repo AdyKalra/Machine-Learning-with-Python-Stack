@@ -18,3 +18,9 @@
 - matplotlib - 2D plotting (visulization)
 - scikit-learn - Algos, pre-processing, performance evaluation 
 
+## working on Jupyter
+- jupyter notebook (launches the notebook)
+- rename the notebook (and choose python 3)
+- change cell type to markdown or code (shift+enter)
+- 
+
