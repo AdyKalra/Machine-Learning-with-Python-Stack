@@ -22,5 +22,7 @@
 - jupyter notebook (launches the notebook)
 - rename the notebook (and choose python 3)
 - change cell type to markdown or code (shift+enter)
-- 
-
+- tab = autocomplete
+- shift tab twice = syntax help
+- shift enter = execute code in the block
+- Kernel menu & restart and run all = to run all blocks 
