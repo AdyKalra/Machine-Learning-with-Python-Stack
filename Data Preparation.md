@@ -44,6 +44,6 @@ and have a specific structure.
 - creating new columns if req
 - enums or 1 and 0s
 - DataRule#3 - Accurately predicting rare event is true
-- DataRule#4 - Track how you manipulate the 
+- DataRule#4 - Track how you manipulate the data
 
 
