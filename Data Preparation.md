@@ -26,5 +26,24 @@ and have a specific structure.
 - df.head (5) ### start of data
 - df.tail (5) ### tailof data
 
+### feature can be a column or multiple columns 
+
+## Columns to eliminate
+- Not used
+- No values
+- Duplicates
+- Correlated columns 
+
+## Pandas and matplot
+- df.isnull ().valye.any () ### check for null values
+- matplot to find correlated values
+- df.corr ()
+
+# Molding data
+- adjusting data types
+- creating new columns if req
+- enums or 1 and 0s
+- DataRule#3 - Accurately predicting rare event is true
+- DataRule#4 - Track how you manipulate the 
 
 
