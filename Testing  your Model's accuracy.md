@@ -53,3 +53,13 @@
 
 - for each fold determine best hyperparameter value
 - set model hyperparameter value to avg best
+
+# Algorithm CV Variants
+- Algorithm + Cross validation = AlgorithmCV
+- exposes fit(), predict() ...
+- Runsthe algorithm k times
+- longer time to run 
+
+
+
+
