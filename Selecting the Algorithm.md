@@ -48,7 +48,7 @@ e.g Binary classification of true or false
 - Naive Bayes
 - simple
 - fast 100x faster
-- stable to data 
+- stable to data changes
 
 
 
