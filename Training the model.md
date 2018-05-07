@@ -26,5 +26,17 @@
 # Jupyter to split and train 
 - 70% for training and 30% for testing
 - from sklearn.cross_validation import train_test_split
+- verify predicted value was split accurately 
+-- original true abd original false same in test / training data
+
+# Post split data separation 
+- hidden missing value
+- drop observations (rows)
+- replace values (Impute)
+
+# Impute with mean
+- from sklearn.preprocessing import Imputer
+
+# Training Initial algo - Naive bayes
 
 
