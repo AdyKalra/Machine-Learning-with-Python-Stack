@@ -28,7 +28,7 @@ e.g Binary classification of true or false
 
 # Candidate algos for Classification 
 - Naive Bayes
-- Lofistic Regression
+- Logistic Regression
 - Decision Tree
 
 # Naive Bayes
@@ -43,6 +43,12 @@ e.g Binary classification of true or false
 - Binary tree
 - Node contains decision 
 - requires enough data to determine nodes and splits
+
+# Selected algo
+- Naive Bayes
+- simple
+- fast 100x faster
+- stable to data 
 
 
 
