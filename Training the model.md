@@ -24,3 +24,4 @@
 - model tuning 
 
 # Jupyter to split and train 
+- 70% for training and 30% for testing
