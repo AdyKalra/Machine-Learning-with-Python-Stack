@@ -25,3 +25,6 @@
 
 # Jupyter to split and train 
 - 70% for training and 30% for testing
+- from sklearn.cross_validation import train_test_split
+
+
